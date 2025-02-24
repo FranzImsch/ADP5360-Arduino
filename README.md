@@ -1,7 +1,7 @@
 # ADP5360-Arduino
 
-WIP
+Library for reading the status registers of the ADP5360. Does not cover all functions.
 
-Library to read (and possibly write) ADP5360 values.
+! Not fully tested yet !
 
-https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5360.pdf 
+Datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5360.pdf 

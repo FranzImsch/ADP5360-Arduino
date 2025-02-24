@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include "adp5360.h"
 
-#define I2C_ADDR 0x40
+#define I2C_ADDR 0x46
 
 ADP5360 battery(Wire, I2C_ADDR);
 
